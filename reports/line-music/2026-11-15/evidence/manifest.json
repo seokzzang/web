@@ -1,0 +1,456 @@
+{
+  "observed_date": "2026-11-15",
+  "timezone": "Asia/Seoul",
+  "screenshots": [
+    {
+      "id": "01-home",
+      "title": "Home · Today",
+      "note": "홈 상단: Today/My Oshi, 이벤트, 개인화, 최근 재생, 미니플레이어, 하단 5개 탭",
+      "captured_at": "2026-11-15T02:09:51.473485+09:00",
+      "image": "assets/01-home.png",
+      "sha256": "1b028ca114b77df394cb593dbde40656c4fd80a2b9f023a6b1ee8eeea315dd7a"
+    },
+    {
+      "id": "02-home-sections",
+      "title": "홈 · 스테이션과 새로운 곡",
+      "note": "홈 세로 스크롤: 최근 들은 노래, 그때를 떠올리게 하는 곡, 새로운 앨범, 스테이션, 새로운 곡 확인",
+      "captured_at": "2026-11-15T02:10:20.056161+09:00",
+      "image": "assets/02-home-sections.png",
+      "sha256": "55cd3ae3f4735edb2047feeba4227ddd71a0195bd223985a235ab31128bdc55c"
+    },
+    {
+      "id": "03-my-artists",
+      "title": "My Artists 선택",
+      "note": "My Oshi 진입 시 아티스트 선택 시트: 등록 아티스트, 선택 표시, 아티스트 편집",
+      "captured_at": "2026-11-15T02:11:16.914932+09:00",
+      "image": "assets/03-my-artists.png",
+      "sha256": "a194dd90f7c94a79f3be2314182cafc018f8a606437151cdf6f4d5f9ceba700d"
+    },
+    {
+      "id": "04-my-oshi",
+      "title": "My Oshi 대시보드",
+      "note": "월간 재생 수, 월간 청취자 수, 전체 좋아요, 오시를 널리 알려보세요, 10분 레이더",
+      "captured_at": "2026-11-15T02:11:25.316020+09:00",
+      "image": "assets/04-my-oshi.png",
+      "sha256": "1b1fc83bf1208ea10e693acb55e01d20ac59cec10c0d6da682a4e8982ff37d45"
+    },
+    {
+      "id": "05-oshi-badges",
+      "title": "Oshi 랭킹·배지",
+      "note": "랭킹 하이라이트: 곡 수/차트 수/최고 순위. 배지: 연속 재생일 3일·7일 카드 및 더보기",
+      "captured_at": "2026-11-15T02:11:49.137088+09:00",
+      "image": "assets/05-oshi-badges.png",
+      "sha256": "51a10d4f44da5fd9c6792c0e6ed87bde1f38cc40b4f333bd9aad1d403a4b671b"
+    },
+    {
+      "id": "06-chart",
+      "title": "차트 개요",
+      "note": "Songs Top 100, New Songs Top 100, 집계 시각, 더보기와 순위 곡목. 상단 보라색 캐릭터 진입점",
+      "captured_at": "2026-11-15T02:12:03.770770+09:00",
+      "image": "assets/06-chart.png",
+      "sha256": "e5881c966225b4df697853b5ac3f8e17d3c7d97cc624060ac0d8b4ae61490fd8"
+    },
+    {
+      "id": "07-chart-detail",
+      "title": "Songs Top 100 상세",
+      "note": "Realtime/Daily/Weekly 전환, PLAY/SHUFFLE, 집계 시각, 개별 곡 더보기",
+      "captured_at": "2026-11-15T02:12:11.949335+09:00",
+      "image": "assets/07-chart-detail.png",
+      "sha256": "4c7ead332378dff59cbdd12c98f73a9c4047d5d5acb681173982343904c6c0b2"
+    },
+    {
+      "id": "08-chart-types",
+      "title": "차트의 종류",
+      "note": "Global-K Chart, Genre TOP 100(J-Pop·K-Pop), 계정 이름이 붙은 개인 Top 50와 기간 표시",
+      "captured_at": "2026-11-15T02:12:40.938456+09:00",
+      "image": "assets/08-chart-types.png",
+      "sha256": "9593c2d071b7f881d1757d2c3791849f7732d555ff1c06e3b04a1d5a57d2e94e"
+    },
+    {
+      "id": "09-chart-karaoke",
+      "title": "Profile MV·Karaoke 차트",
+      "note": "장르별 차트 이후 락 Top 100, BGM & Melody Top 100, Profile MV Top 100, Karaoke Top 100 확인",
+      "captured_at": "2026-11-15T02:13:08.547524+09:00",
+      "image": "assets/09-chart-karaoke.png",
+      "sha256": "5492ed170e8b86bba0b29ecdb4433cc80466670a5bb06651045e01a25447ff36"
+    },
+    {
+      "id": "10-chart-history",
+      "title": "과거 오늘의 차트 선택",
+      "note": "차트 선택 시트: 국내/해외, 연도 휠, 확인. 기존 선택 유지, 변경 확정 안 함",
+      "captured_at": "2026-11-15T02:13:29.754225+09:00",
+      "image": "assets/10-chart-history.png",
+      "sha256": "cc6af2502d239fde7690936c7161c04d68087ddf6fbd0648e656e30ba9fdc539"
+    },
+    {
+      "id": "11-discover",
+      "title": "디스커버 세로 영상 피드",
+      "note": "나를 위한 추천, 소리 켜기/끄기, 좋아요, 플레이리스트 추가, 다음에 재생, 더보기, 곡 정보",
+      "captured_at": "2026-11-15T02:13:48.009332+09:00",
+      "image": "assets/11-discover.png",
+      "sha256": "9bd875264673e25498dbfe4d04e749ab6bf144ae23447b4fe183dec4b85da5cc"
+    },
+    {
+      "id": "12-song-menu",
+      "title": "곡 더보기 메뉴",
+      "note": "곡 저장, 좋아요, 이 노래 제외, 비디오 보기, 비슷한 노래 보기, 나의 BGM, 나의 멜로디, 공유, 내 플레이리스트에 추가",
+      "captured_at": "2026-11-15T02:13:58.624231+09:00",
+      "image": "assets/12-song-menu.png",
+      "sha256": "d4bb6bf4a179ee1cdfa2f8e820bd186099e9a7a1e2e4d2bce9fd3e7114827b44"
+    },
+    {
+      "id": "13-search",
+      "title": "검색 · 장르 탐색",
+      "note": "아티스트·노래 또는 가사 검색, 음악인식 모양 버튼. J-Pop, K-Pop, 락, 일본 락, 애니메이션, 보컬로이드, 일본 힙합, 서양 음악, 힙합, 레게",
+      "captured_at": "2026-11-15T02:14:13.323913+09:00",
+      "image": "assets/13-search.png",
+      "sha256": "08f78eb4c3746dd5c9316d287c0ac7005f56f18e921fc54a3a6454322feeed92"
+    },
+    {
+      "id": "14-microphone",
+      "title": "음악 검색 · 마이크 권한 안내",
+      "note": "음악 검색과 노래방을 위해 마이크를 사용한다는 OS 권한 요청. 새 권한은 허용하지 않고 기능 안내만 기록",
+      "captured_at": "2026-11-15T02:14:28.490597+09:00",
+      "image": "assets/14-microphone.png",
+      "sha256": "8f85010585b743d1fba58d208f0706dd0f53836ccf68f3ffc06e1a507ccc78f9"
+    },
+    {
+      "id": "15-search-themes",
+      "title": "검색 · 테마",
+      "note": "이주의 최신곡, 베스트 히트곡, 연대별, 사랑 노래, TV·영화, 무드, 노래방, LINE 벨소리, 집중할 때, 감정",
+      "captured_at": "2026-11-15T02:15:02.157420+09:00",
+      "image": "assets/15-search-themes.png",
+      "sha256": "00b3659c6f052115fcdc47a21212fd35a615958fa3e62929cc7b7aec18fd93f4"
+    },
+    {
+      "id": "16-search-result",
+      "title": "통합 검색 결과",
+      "note": "전체, 노래, 앨범, 아티스트, 플레이리스트, 유저 탭. 아티스트 카드와 곡/플레이리스트 결과",
+      "captured_at": "2026-11-15T02:15:24.477615+09:00",
+      "image": "assets/16-search-result.png",
+      "sha256": "9042c2776ca2b8fb308eb1d135159ca16fde65eac9b9eb5eab3e62ddab298a26"
+    },
+    {
+      "id": "17-artist",
+      "title": "아티스트 상세",
+      "note": "좋아요/월간 감상자, 댓글, 좋아요 하트, 더보기, My Oshi 추가, 최신 발매 카드",
+      "captured_at": "2026-11-15T02:15:35.823953+09:00",
+      "image": "assets/17-artist.png",
+      "sha256": "7467a54fc2bbbc5461cbee00dcb18873077424a7d578cb8dc87d3824d56c3fb0"
+    },
+    {
+      "id": "18-comments",
+      "title": "아티스트 댓글",
+      "note": "댓글 수, 최신순 정렬, 댓글 좋아요, 입력창. 열람만 수행하고 작성/반응하지 않음",
+      "captured_at": "2026-11-15T02:16:16.892501+09:00",
+      "image": "assets/18-comments.png",
+      "sha256": "fde844a5a2e5bd78b4103f104d85c769556ed0560005928dad5586e2612fa848"
+    },
+    {
+      "id": "19-library",
+      "title": "보관함 · 저장한 음악",
+      "note": "저장한 음악/노래/아티스트/앨범/플레이리스트 탭과 탭 순서 모양 버튼, 정렬, 저장 곡의 오프라인 감상 안내",
+      "captured_at": "2026-11-15T02:16:27.534159+09:00",
+      "image": "assets/19-library.png",
+      "sha256": "82da858e224d054e3452d0a99350f79ce2724bcacb809ac7794b817df404424e"
+    },
+    {
+      "id": "20-library-sort",
+      "title": "보관함 정렬",
+      "note": "노래: 최근에 추가/곡 제목/아티스트 기준 정렬. 기존 선택 유지",
+      "captured_at": "2026-11-15T02:16:41.927211+09:00",
+      "image": "assets/20-library-sort.png",
+      "sha256": "99257f21f3660809ece47faa910b47a00d71cf9f9b19d3351433f80cd8f84c19"
+    },
+    {
+      "id": "21-playlists",
+      "title": "플레이리스트 관리",
+      "note": "새로 만들기, 이미지로 곡 추가, 플레이리스트 목록. 오른쪽에 나의 BGM/뮤비 등 추가 탭 표시",
+      "captured_at": "2026-11-15T02:17:00.726110+09:00",
+      "image": "assets/21-playlists.png",
+      "sha256": "12627b09e1eb6d606272f055b0b8befdf8cf9123183c3c7a76fd79e4752522ab"
+    },
+    {
+      "id": "22-library-tabs",
+      "title": "보관함 전체 메뉴와 순서 편집",
+      "note": "저장한 음악, 노래, 아티스트, 앨범, 플레이리스트, 뮤비, 뮤비플레이리스트, 디바이스 저장 음악. 순서 이동 핸들, 완료",
+      "captured_at": "2026-11-15T02:17:10.888404+09:00",
+      "image": "assets/22-library-tabs.png",
+      "sha256": "0842c19120906a126943c95366e9f46bfb4ed453cb46803c7a750d53ed7f2493"
+    },
+    {
+      "id": "23-settings",
+      "title": "설정 상단",
+      "note": "프로필/Premium 표시, 계정 설정, My 멤버십·구독, 구매한 음악, 미션, My Oshi 토글, 재생 환경 설정, 백업과 복원",
+      "captured_at": "2026-11-15T02:17:43.855504+09:00",
+      "image": "assets/23-settings.png",
+      "sha256": "bcc72a86367a608a57d0049103a262704d73d100da5007f9b8623e30161ae490"
+    },
+    {
+      "id": "24-playback-settings",
+      "title": "재생 환경 설정",
+      "note": "재생 목록 설정, 음질 및 저장, EQ, 음량 자동 조절, 자동 종료 타이머, 음원 캐싱 사용, 제외한 음악",
+      "captured_at": "2026-11-15T02:18:10.289451+09:00",
+      "image": "assets/24-playback-settings.png",
+      "sha256": "2fd19231f2c730ea5d8930bf3b2a7f6acfd83cbdb4b65a57aef41f99e3b7137b"
+    },
+    {
+      "id": "25-queue-settings",
+      "title": "재생 목록 설정 옵션",
+      "note": "한 곡 누를 때 목록 전체 재생/누른 곡만 재생, 곡 추가 시 중복 곡 허용, 자동 추천 재생. 값 변경 안 함",
+      "captured_at": "2026-11-15T02:18:21.110845+09:00",
+      "image": "assets/25-queue-settings.png",
+      "sha256": "01fd4a3fec352ff7a104acfede23b18cd4578c030513c2ec9c425277a43f8a5e"
+    },
+    {
+      "id": "26-quality",
+      "title": "음질 및 저장",
+      "note": "음질, 화질, 셀룰러 스트리밍 허용, 저장 음질, Wi-Fi 상태일 때만 저장, 좋아요 자동 저장, 디바이스 사용 용량",
+      "captured_at": "2026-11-15T02:18:34.276822+09:00",
+      "image": "assets/26-quality.png",
+      "sha256": "bfa453e4f4c51c4749aa81cf61d8b5d71a837d0fe8e04b014a6c60ebfa907c22"
+    },
+    {
+      "id": "27-quality-options",
+      "title": "스트리밍 음질 선택지",
+      "note": "Wi-Fi와 셀룰러 각각 320K·192K·AAC 선택. 재생 중 변경은 다음 곡부터 반영, 없는 경우 아래 단계 제공 안내",
+      "captured_at": "2026-11-15T02:18:42.641179+09:00",
+      "image": "assets/27-quality-options.png",
+      "sha256": "e92e353fd25ba3a1cf9a8a01686e4119163670d1d8ed43aaf42d3a751f6d3639"
+    },
+    {
+      "id": "28-eq",
+      "title": "EQ 설정",
+      "note": "Equalizer 사용 토글, 32·64·125·250·500·1K·2K·4K·8K·16K 밴드, 상황별 EQ/MY EQ, 프리셋. 꺼진 상태 유지",
+      "captured_at": "2026-11-15T02:19:18.988596+09:00",
+      "image": "assets/28-eq.png",
+      "sha256": "e9ae39dacb261d7950e6e568beddd4b819e54ecbea7f2cf28b80b47d41e745b4"
+    },
+    {
+      "id": "29-sleep-timer",
+      "title": "자동 종료 타이머",
+      "note": "시간·분 휠과 타이머 시작. 지정 시간 후 재생 종료 안내. 시작하지 않음",
+      "captured_at": "2026-11-15T02:19:43.027845+09:00",
+      "image": "assets/29-sleep-timer.png",
+      "sha256": "c54935c8809dc52e34fca0e5fc7d3ccbeb55f431630b4c85a0b413e61e772ab9"
+    },
+    {
+      "id": "30-exclusions",
+      "title": "제외한 음악",
+      "note": "노래/아티스트 탭과 항목별 X 해제. 캐싱 화면도 확인: 음원 캐싱 사용 토글 및 임시 저장 음원 삭제. 삭제/해제 안 함",
+      "captured_at": "2026-11-15T02:20:09.194791+09:00",
+      "image": "assets/30-exclusions.png",
+      "sha256": "347d7b4b4959e585f14c44b66a4a6d4a827d6b8e85459fccf59e78420f555fe2"
+    },
+    {
+      "id": "31-account",
+      "title": "계정 설정",
+      "note": "LINE 이름, 학생인증, 결제 정보 수신 이메일 진입점, BGM & Melody 설정 프라이버시, 대상 LINE 혜택. 이메일 상세는 열지 않음",
+      "captured_at": "2026-11-15T02:20:32.056141+09:00",
+      "image": "assets/31-account.png",
+      "sha256": "f113c7cbc58a27b0ccca01a3daa8894afa4f1cf8848da815133a363ae76110e9"
+    },
+    {
+      "id": "32-membership",
+      "title": "My 멤버십",
+      "note": "사용 중 티켓과 만료일, 다른 플랜 보기, 구매이력, 티켓 복원. 계정 화면에서 보상용 티켓 표시, 실제 결제 구독 여부는 미검증",
+      "captured_at": "2026-11-15T02:21:03.055703+09:00",
+      "image": "assets/32-membership.png",
+      "sha256": "096f5daec9d67c836ef5688a1c895cd71d6019480d1ccbdf2b736568c1f9a36e"
+    },
+    {
+      "id": "33-missions",
+      "title": "미션 목록",
+      "note": "진행중/기간 종료 탭. 현재 진행 중 미션 없음, 기간 종료 탭 전환 시 완료된 미션 없음 토스트",
+      "captured_at": "2026-11-15T02:21:28.362143+09:00",
+      "image": "assets/33-missions.png",
+      "sha256": "abdb39459f8dbeb56e2024dad9b83dd3545d243b33d4c571e67fed9b20a52656"
+    },
+    {
+      "id": "34-backup",
+      "title": "백업과 복원",
+      "note": "재생목록·다운로드 곡 목록을 iCloud에 백업·복원 안내, 지금 백업, 자동 백업(앱을 켜면 1일 1회). 백업 실행 안 함",
+      "captured_at": "2026-11-15T02:21:43.100853+09:00",
+      "image": "assets/34-backup.png",
+      "sha256": "81fe062b4e18862b2859aabd4df9c1c421a29beacf419b0ec25b00c6d904ea9a"
+    },
+    {
+      "id": "35-player",
+      "title": "전체 플레이어",
+      "note": "상단 재생설정/다운로드/더보기, 앨범아트와 가사 발췌, 좋아요, 진행바, 반복·이전·재생·다음·셔플, 하단 가사·반짝이·재생목록 아이콘",
+      "captured_at": "2026-11-15T02:22:14.229146+09:00",
+      "image": "assets/35-player.png",
+      "sha256": "091fb33264cc56594f46069df80397be6ce8062c975d181c645d49e431cd80be"
+    },
+    {
+      "id": "36-lyrics",
+      "title": "가사와 노래방 진입점",
+      "note": "가사 화면, 노래방 버튼, x1 표시와 가사 표시 옵션, 재생 진행 확인 0:04 이후 증가. 가사 전문을 보고서 텍스트로 전재하지 않음",
+      "captured_at": "2026-11-15T02:22:33.463923+09:00",
+      "image": "assets/36-lyrics.png",
+      "sha256": "913a5b9d191d62e79488d3758e6064d28e51b045e82180e1c2d8629b4ef7498b"
+    },
+    {
+      "id": "37-karaoke",
+      "title": "노래방 설정",
+      "note": "보컬 제거율, 채점 시작 토글, 마이크 음량, 잔향 효과, 휴대폰 내장 마이크/이어폰 마이크, 전체 초기화. 유선 이어폰 안내, 실제 채점/녹음 미검증",
+      "captured_at": "2026-11-15T02:23:31.594643+09:00",
+      "image": "assets/37-karaoke.png",
+      "sha256": "f6fd5c036717b67cf26a180dad90307c629ad1eaab705b1a59e335d4d9cf8d09"
+    },
+    {
+      "id": "38-player-related",
+      "title": "플레이어의 비슷한 노래",
+      "note": "반짝이 아이콘은 비슷한 노래/관련 플레이리스트를 표시. 곡 목록 재생하기 진입점. 일시정지 확인",
+      "captured_at": "2026-11-15T02:23:55.097529+09:00",
+      "image": "assets/38-player-related.png",
+      "sha256": "53051555365008a1845237684a2aa64f15fb0944e1f19497eb41668504e97a67"
+    },
+    {
+      "id": "39-queue",
+      "title": "현재 재생목록",
+      "note": "상단 여러 재생목록 카드, 곡 수, 내 정렬, 검색, 곡 선택 원형과 순서 핸들. 재생 제어 유지",
+      "captured_at": "2026-11-15T02:24:10.233827+09:00",
+      "image": "assets/39-queue.png",
+      "sha256": "fa66af4176444cde7d477feda2a90037fc7bee15b4e2225c551c58413e5b1b4c"
+    },
+    {
+      "id": "40-queue-edit",
+      "title": "재생목록 선택·편집",
+      "note": "검색, 전체 선택, 선택 곡 수, 반복 재생·담기·저장·삭제 도구. 곡 선택만 확인하고 처리 실행 안 함",
+      "captured_at": "2026-11-15T02:24:20.133631+09:00",
+      "image": "assets/40-queue-edit.png",
+      "sha256": "1e52515591a75908198820071fc03385b2b003adf3812b3d30c54040e3ab0659"
+    },
+    {
+      "id": "41-line-bgm",
+      "title": "LINE BGM 전제 조건",
+      "note": "BGM 설정하려면 해당 곡을 저장해야 한다는 확인창. 저장하지 않고 아니요로 종료, 실제 프로필 BGM 변경 미수행",
+      "captured_at": "2026-11-15T02:24:55.414419+09:00",
+      "image": "assets/41-line-bgm.png",
+      "sha256": "80c050714d458e4a59e43bab155fcd657061d2ded3ed2393a8100017c4c92a1b"
+    },
+    {
+      "id": "42-album",
+      "title": "앨범 상세",
+      "note": "아티스트·좋아요·다운로드, 발매일·유형·총 길이, PLAY/SHUFFLE, 댓글, 곡 수·트랙 정렬, 곡별 더보기",
+      "captured_at": "2026-11-15T02:26:05.356927+09:00",
+      "image": "assets/42-album.png",
+      "sha256": "4536f4b860ef5257a22ab98482b7b5658e3eacc1576b321c6d4355e19acb3ffd"
+    },
+    {
+      "id": "43-ai-playlist",
+      "title": "AI PlayList",
+      "note": "일본어 UI: 추천, 새로 만들기, 세상의 인기, 나의 음악 타입 보기, 재분석, 추천 묶음, 설정",
+      "captured_at": "2026-11-15T02:26:33.699991+09:00",
+      "image": "assets/43-ai-playlist.png",
+      "sha256": "32c9fdb25782bc64773384805fa688130808b517ec8612167d936783c99bec12"
+    },
+    {
+      "id": "44-ai-create",
+      "title": "AI 생성 · 기준 곡 선택",
+      "note": "Make My Playlist, GENERAL SONGS 드롭다운, Card/List, 미리듣기 음소거, 곡 +, 선택중 개수, 장르/타이업/아티스트 분류, 완료. 생성 확정 안 함",
+      "captured_at": "2026-11-15T02:26:54.626502+09:00",
+      "image": "assets/44-ai-create.png",
+      "sha256": "a12be8c0b5ad2e3d8c3ed41638d425a68e142e1c0d6849ea000693549c993df1"
+    },
+    {
+      "id": "45-ai-settings",
+      "title": "AI PlayList 설정",
+      "note": "Playlist 탭: 통지 시각(매일 AM4~8시 안내), 추천 커스텀 설정. 기타 탭: 자신의 음악 타입 확인, AI PlayList 면책사항",
+      "captured_at": "2026-11-15T02:27:25.800622+09:00",
+      "image": "assets/45-ai-settings.png",
+      "sha256": "e21b92bd52fb943122db1c28bd3ed60d6f087d1f2d2f3c73a5277aa9e9bf46a2"
+    },
+    {
+      "id": "46-music-type",
+      "title": "나의 음악 타입",
+      "note": "당신의 음악 타입, MRAP 유형명과 취향 설명, 멜로디/리듬 등의 축 시각화. 개인화 분석 결과는 조사 시점 화면",
+      "captured_at": "2026-11-15T02:27:36.114748+09:00",
+      "image": "assets/46-music-type.png",
+      "sha256": "4ecf82e528a1c7c9b861b2d5538c3d49783bde018923283d8f36058d75b3715f"
+    },
+    {
+      "id": "47-notifications",
+      "title": "알림함",
+      "note": "알림 목록 및 삭제 진입점. 현재 알림 없음. 삭제 수행 안 함",
+      "captured_at": "2026-11-15T02:28:06.246806+09:00",
+      "image": "assets/47-notifications.png",
+      "sha256": "ec78a009387646abe368d67c2cb30a51a06bef3cf5487b9546c1dd17063f99c1"
+    },
+    {
+      "id": "48-profile",
+      "title": "사용자 프로필",
+      "note": "닉네임·Premium 배지·팔로워/팔로잉·프로필 수정, 좋아하는 아티스트, 즐겨 듣는 노래 Top 50. 개인 계정 데이터",
+      "captured_at": "2026-11-15T02:28:40.797666+09:00",
+      "image": "assets/48-profile.png",
+      "sha256": "17ba72fd2857fdc4c00531ac4fa1a167f24fcddbfb419b6ba33b47f12e3c2974"
+    },
+    {
+      "id": "49-profile-edit",
+      "title": "프로필 편집 항목",
+      "note": "사진·닉네임·웹사이트·자기소개·팔로우 허용(누구나/승인한 사람만). 기존 값 유지",
+      "captured_at": "2026-11-15T02:28:54.465898+09:00",
+      "image": "assets/49-profile-edit.png",
+      "sha256": "838fd3ad63ace8d205ab1e88d5fdf2da9e4c9f2b809ee36afb13c79ce388d951"
+    }
+  ],
+  "feature_count": 110,
+  "section_count": 11,
+  "sources": [
+    [
+      "S1",
+      "LINE MUSIC 공식 서비스 소개",
+      "https://music.line.me/",
+      "음악·MV·노래방과 LINE 연계 서비스 개요. 요금 수치는 이 보고서에서 비교하지 않는다."
+    ],
+    [
+      "S2",
+      "iOS 공식 도움말",
+      "https://help2.line.me/LINEMusic/ios?lang=ja",
+      "백업과 복원, 재생목록 설정, 콘텐츠 공유의 공식 설명."
+    ],
+    [
+      "S3",
+      "My Oshi·10분 레이더 공식 도움말",
+      "https://help2.line.me/LINEMusic/ios/?contentId=200001916&lang=ja",
+      "My Oshi 설정과 대상 아티스트, 최대 선택 수 등 보완."
+    ],
+    [
+      "S4",
+      "My Oshi 집계·레벨·배지 공식 도움말",
+      "https://help2.line.me/LINEMusic/ios/?contentId=200001337",
+      "활동 기반 레벨과 배지, 10분 레이더 집계 방식 설명."
+    ],
+    [
+      "S5",
+      "관련 콘텐츠와 K-pop 가사 업데이트",
+      "https://music.line.me/top/news/240110/001/",
+      "2024-01-11 공지. 반짝이 메뉴와 일부 K-pop 가사의 읽기 표기 설명."
+    ],
+    [
+      "S6",
+      "노래방 채점 이용 안내",
+      "https://music.line.me/enjoy/listen/05/",
+      "유선 이어폰을 이용하는 채점 방식 및 곡·기기별 제약."
+    ],
+    [
+      "S7",
+      "LINE 프로필 BGM 설정",
+      "https://music.line.me/enjoy/set/02/",
+      "LINE 프로필 BGM 연결 기능. 계정별 실제 적용은 확인하지 않았다."
+    ],
+    [
+      "S8",
+      "OCR·동기 가사 공식 도움말",
+      "https://help2.line.me/LINEMusic/android/categoryId/200000635/3/pc?lang=ja",
+      "이미지에서 곡 정보를 읽어 플레이리스트에 추가하는 방식. Android 문서이므로 iPhone 세부 UI와 구분한다."
+    ],
+    [
+      "S9",
+      "플레이리스트 표지 편집 도움말",
+      "https://help2.line.me/LINEMusic/?contentId=200000270&lang=ja",
+      "자신이 만든 플레이리스트의 표지 변경 경로."
+    ]
+  ]
+}

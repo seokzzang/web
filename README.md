@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Reports
+
+- [LINE MUSIC 메뉴·기능 상세 조사 (2026-11-15)](reports/line-music/2026-11-15/README.md): 실제 화면 49장, 메뉴·기능 110개 항목, 이미지 내장 HTML과 원본 캡처.

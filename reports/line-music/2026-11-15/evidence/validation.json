@@ -1,0 +1,25 @@
+{
+  "index.html": {
+    "duplicate_ids": [],
+    "broken_anchors": [],
+    "missing_images": [],
+    "embedded_screens": 49,
+    "feature_sections": 110
+  },
+  "LINE-MUSIC-상세-분석.html": {
+    "duplicate_ids": [],
+    "broken_anchors": [],
+    "missing_images": [],
+    "embedded_screens": 49,
+    "feature_sections": 110
+  },
+  "pngs": {
+    "count": 49,
+    "png_crc": "all valid",
+    "dimensions": "484x932"
+  },
+  "javascript_syntax": "node --check passed",
+  "embedded_image_hashes": "49 of 49 match PNG originals",
+  "external_runtime_dependencies": 0,
+  "browser_visual_and_interaction_check": "Not performed: Mac locked during native exploration"
+}
